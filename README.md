@@ -1,4 +1,4 @@
-# Project Newton API
+# Slack Social API
 
 This project was generated with [Vulgar CLI](https://github.com/datatypevoid/vulgar). For more help visit the git repository.
 
